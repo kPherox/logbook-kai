@@ -47,6 +47,7 @@ logbook.api.ApiReqMapNext
 logbook.api.ApiReqMapStart
 logbook.api.ApiReqMemberItemuse
 logbook.api.ApiReqMissionResult
+logbook.api.ApiReqMissionReturnInstruction
 logbook.api.ApiReqMissionStart
 logbook.api.ApiReqNyukyoSpeedchange
 logbook.api.ApiReqNyukyoStart
